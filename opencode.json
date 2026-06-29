@@ -10,6 +10,21 @@
       "description": "World-class full-stack web development architect. Use for ANY coding task — websites, web apps, APIs, CLIs, libraries, infrastructure, DevOps, performance, accessibility, security, testing, and system design. Covers the entire modern web stack across 20+ languages and every major framework, cloud, and deployment target. Enforces OWASP security, WCAG accessibility, and production-grade engineering standards on every task.",
       "mode": "primary",
       "color": "success"
+    },
+    "orchestrator-agent": {
+      "description": "Master orchestrator and team lead. Use for complex multi-agent workflows, project planning, task decomposition, and coordination across all specialist agents. Plans, delegates, tracks, and ensures quality across the entire team.",
+      "mode": "primary",
+      "color": "magenta"
+    },
+    "reviewer-agent": {
+      "description": "Elite technical code reviewer and quality guardian. Use for reviewing code from webdev-agent, enforcing best practices, validating architecture, and assigning revision tasks. Ensures all code meets production-grade standards for quality, maintainability, performance, and security.",
+      "mode": "primary",
+      "color": "yellow"
+    },
+    "devsecops-agent": {
+      "description": "Elite DevSecOps engineer and security analyst. Use for security analysis, malware analysis, reverse engineering, penetration testing, exploit development, threat hunting, SIEM/SOAR/EDR configuration, and building security pipelines. Deep expertise in C, Python, PowerShell, Rust, JavaScript, Ruby, and shell scripting for security tooling.",
+      "mode": "primary",
+      "color": "red"
     }
   },
   "default_agent": "agentic-engineer"
