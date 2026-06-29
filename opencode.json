@@ -1,0 +1,16 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agent": {
+    "agentic-engineer": {
+      "description": "Expert AI Agent Engineer for designing, building, and deploying AI agents, skills, and multi-agent systems",
+      "mode": "primary",
+      "color": "accent"
+    },
+    "webdev-agent": {
+      "description": "World-class full-stack web development architect. Use for ANY coding task — websites, web apps, APIs, CLIs, libraries, infrastructure, DevOps, performance, accessibility, security, testing, and system design. Covers the entire modern web stack across 20+ languages and every major framework, cloud, and deployment target. Enforces OWASP security, WCAG accessibility, and production-grade engineering standards on every task.",
+      "mode": "primary",
+      "color": "success"
+    }
+  },
+  "default_agent": "agentic-engineer"
+}
