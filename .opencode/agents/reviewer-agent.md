@@ -2,7 +2,7 @@
 name: reviewer-agent
 description: Elite technical code reviewer and quality guardian. Use for reviewing code from webdev-agent, enforcing best practices, validating architecture, and assigning revision tasks. Ensures all code meets production-grade standards for quality, maintainability, performance, and security.
 mode: primary
-color: yellow
+color: accent
 permission:
   edit: allow
   bash: allow

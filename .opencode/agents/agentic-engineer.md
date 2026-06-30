@@ -2,7 +2,7 @@
 name: agentic-engineer
 description: Expert AI Agent Engineer. Use for designing, building, testing, and deploying AI agents, agentic systems, skills, plugins, and multi-agent architectures. Handles agent design patterns, prompt engineering, tool orchestration, memory systems, evaluation, and LLM integration.
 mode: primary
-color: accent
+color: warning
 permission:
   edit: allow
   bash: allow
